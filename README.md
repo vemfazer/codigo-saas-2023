@@ -1,13 +1,6 @@
 <h1 align="center">Whaticket Baileys |Canal Vem Fazer</h1>
 
-<div align="center">
-
-[![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
-[![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
-
-
 <h1 align="center">https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</h1>
-
 
 
 ## Vamos instalar?
